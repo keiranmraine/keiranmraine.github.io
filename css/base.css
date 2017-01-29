@@ -1,0 +1,94 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
+
+img.circular {
+    height: auto;
+    width: 125px;
+    border-radius: 50%;
+    border: 2px solid #d0d0d0;
+    padding: 5px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #640200;
+}
+
+h1.inline {
+    display: inline;
+}
+
+h3 {
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a.currentLink {
+   color: #640200;
+   font-weight: bold;
+}
+
+#wrapper {
+    width: 100%;
+    min-width: 800px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#headerwrap {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+}
+
+#header {
+    background: #E8E8E8;
+    border-radius: 10px;
+    border: 1px solid #d4d4d4;
+    padding: 5px;
+    margin: 5px;
+}
+
+#contentliquid {
+    float: left;
+    width: 100%;
+}
+
+#contentwrap {
+    margin-left: 160px;
+}
+
+#content {
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #d4d4d4;
+    padding: 5px;
+    margin: 5px;
+}
+
+#leftcolumnwrap {
+    width: 160px;
+    margin-left: -100%;
+    float: left;
+}
+
+#leftcolumn {
+    background: #E8E8E8;
+    border-radius: 10px;
+    border: 1px solid #d4d4d4;
+    padding: 5px;
+    margin: 5px;
+}
