@@ -7,8 +7,8 @@ Husband, father, bioinformatician.
 Principal Bioinformatician, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Trust Sanger Institute](http://www.sanger.ac.uk/).
 
 Currently much of my development time is spent improving the usability of the teams
-code, specifically with the intent of making it possible for collaborators to recapitulate
-findings independantly using the same software stack.  This involves:
+code, specifically with the intent of making it possible for collaborators to reproduce
+findings independently using the same software stack.  This involves:
 
 * Supporting queries on our [GitHub repository](https://github.com/cancerit)
 * Building docker images modeling our analysis pipelines
