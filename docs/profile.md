@@ -3,6 +3,8 @@
 ### In short
 Husband, father, bioinformatician.
 
+My GitHub account: [keiranmraine](https://github.com/keiranmraine)
+
 ### Current position
 Principal Bioinformatician, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Trust Sanger Institute](http://www.sanger.ac.uk/).
 
