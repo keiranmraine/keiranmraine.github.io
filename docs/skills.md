@@ -76,3 +76,5 @@ This section details languages I have some experience but would not consider mys
     * Library installation
 * Python
     * Online courses, Debugging
+* Message Queues
+    * RabbitMQ - https://github.com/cancerit/WwDocker
