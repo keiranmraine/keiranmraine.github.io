@@ -1,4 +1,24 @@
-# Skills
+# Education & Skills
+
+## Education
+
+### M.Sc. Bioinformatics
+* University of Manchester
+* 2001-2002
+* Project
+    * Finding the immunogenic needle in the immunological haystack: a comparative study of context dependent text mining.
+    * [Edward Jenner Institute for Vaccine Research](http://www.jenner.ac.uk/home)
+    * Supervisor [Dr Darren Flower](http://www.aston.ac.uk/lhs/staff/az-index/dr-darren-flower/)
+
+### B.Sc. (Hons) Biomedical Sciences, 2:1
+* University of Durham
+* 1998-2001
+* Project
+    * The Chromosome 19 Limb-Girdle Muscular Dystrophy Gene (LGMD2I). Candidate Gene Analysis.
+    * [University of Durham, Department of Biosciences](https://www.dur.ac.uk/biosciences/)
+    * Supervisor [Dr Rumaisa Bashir](https://www.dur.ac.uk/biosciences/about/schoolstaff/academicstaff/?id=3)
+
+## Skills
 
 ### Scripting languages
 * perl - main focus
@@ -56,3 +76,5 @@ This section details languages I have some experience but would not consider mys
     * Library installation
 * Python
     * Online courses, Debugging
+* Message Queues
+    * RabbitMQ - https://github.com/cancerit/WwDocker
