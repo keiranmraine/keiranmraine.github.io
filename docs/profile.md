@@ -1,34 +1,29 @@
 # Profile
 
 ### In short
+
 Husband, father, bioinformatician.
 
 My GitHub account: [keiranmraine](https://github.com/keiranmraine)
 
 ### Current position
-Principal Bioinformatician, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Trust Sanger Institute](http://www.sanger.ac.uk/).
+Principal Software developer, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Trust Sanger Institute](http://www.sanger.ac.uk/).
 
-Currently much of my development time is spent improving the usability of the teams
+Much of my development time is spent improving the usability of the teams
 code, specifically with the intent of making it possible for collaborators to reproduce
-findings independently using the same software stack.  This involves:
-
-* Supporting queries on our [GitHub repository](https://github.com/cancerit)
-* Building docker images modeling our analysis pipelines
-    * [dockstore-cgpmap](https://github.com/cancerit/dockstore-cgpmap) - BWA mapping workflow
-    * [dockstore-cgpwxs](https://github.com/cancerit/dockstore-cgpwxs) - WXS variant calling (SNV, INDEL)
-    * [dockstore-cgpwgs](https://github.com/cancerit/dockstore-cgpwgs) - WGS variant calling (SNV, INDEL, CN, SV)
-* Incorporating these into the [dockstore.org](http://dockstore.org) framework:
-    * [dockstore-cgpmap](https://dockstore.org/containers/quay.io/wtsicgp/dockstore-cgpmap)
-    * [dockstore-cgpwxs](https://dockstore.org/containers/quay.io/wtsicgp/dockstore-cgpwxs)
-    * [dockstore-cgpwgs](https://dockstore.org/containers/quay.io/wtsicgp/dockstore-cgpwgs)
+findings independently using the same software stack.
 
 ### Global Projects
 
 I am a member of the following initiatives:
+
 * [ICGC PanCancer Analysis of Whole Genomes](https://dcc.icgc.org/pcawg) Technical working group
 * [ICGCmed](https://icgcmed.org/) Data Management Working group
-    * Data Coordination
-    * Software Engineering
+  * Occasional consultation, not regular atendee
+  * Data Coordination
+  * Software Engineering
+* [PPCG](https://panprostate.org/) Technical working group
+  * Occasional consultation, not regular atendee
 
 ### Work history
 
@@ -52,7 +47,12 @@ During 2016 I developed a new plugin for JBrowse, [proportionalMultiBw](https://
 
 In 2014 the CGP became involved in the [ICGC PanCancer Analysis of Whole Genomes](https://dcc.icgc.org/pcawg) project.  As part of this a significant portion of the IT team spent 6 months preparing all of the core algorithms we use in house for public use.  In addition to this work I was a member of the technical working group advising on tools, mapping strategy and creating tools to aid the submission of the raw sequencing data from the sequencing sites around the world.  Working closely with the IT group at OICR I implemented the 'Sanger' pipeline into the framework to be used in multiple data centers around the world.  This pipeline ran successfully in 13 locations on a variety of base infrastructures including AWS, Azure, OpenStack and traditional HPC.
 
-In 2016 I developed [cgpbox](https://github.com/cancerit/cgpbox) as an initial method of providing our wholegenome analysis platform in a convenient to use docker image.  This was well received and we continue to build on this with the [dockstore](https://dockstore.org) framework (see above).
+In 2016 I developed [cgpbox](https://github.com/cancerit/cgpbox) as an initial prototype providing our wholegenome analysis platform in a convenient to use docker image.  This was well received and we continue to build on this with the [dockstore](https://dockstore.org) framework (see above).
+
+During 2017 I prototyped a full-stack system for reciept of external sequencing data via web-interface and S3, some of this can be viewed [here](https://youtu.be/I2Burmz7nPA).  Following on from this a small team was formed to take this project further, developing the service architechture to validate the input data.  Sadly the decision wass taken to pause this project, however a great deal of new technology was investigated and this has proven to be valuable for subsequent projects.
+
+Following on from this I have lead the initiative to convert all of our analysis pipelines to use containers.  This has allowed us to offer our users the ability to fix algorithm versions for the life of their analysis projects.
 
 ### Readers note
+
 Above I have detailed projects that I have been heavily involved in.  Although I may have worked exclusively on some of these it should be noted that I value the advice and expertise of those around me.  The 'cancerit' team is an excellent group of people from varied backgrounds who draw on each others strengths.  The team is also supported by the core informatics and infrastructure groups at the Sanger Institute.
