@@ -7,7 +7,7 @@ Husband, father, bioinformatician.
 My GitHub account: [keiranmraine](https://github.com/keiranmraine)
 
 ### Current position
-Principal Software developer, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Trust Sanger Institute](http://www.sanger.ac.uk/).
+Principal Software developer, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Sanger Institute](http://www.sanger.ac.uk/).
 
 Much of my development time is spent improving the usability of the teams
 code, specifically with the intent of making it possible for collaborators to reproduce
@@ -49,7 +49,7 @@ In 2014 the CGP became involved in the [ICGC PanCancer Analysis of Whole Genomes
 
 In 2016 I developed [cgpbox](https://github.com/cancerit/cgpbox) as an initial prototype providing our wholegenome analysis platform in a convenient to use docker image.  This was well received and we continue to build on this with the [dockstore](https://dockstore.org) framework (see above).
 
-During 2017 I prototyped a full-stack system for reciept of external sequencing data via web-interface and S3, some of this can be viewed [here](https://youtu.be/I2Burmz7nPA).  Following on from this a small team was formed to take this project further, developing the service architechture to validate the input data.  Sadly the decision wass taken to pause this project, however a great deal of new technology was investigated and this has proven to be valuable for subsequent projects.
+During 2017 I prototyped a full-stack system for reciept of external sequencing data via web-interface and S3, some of this can be viewed [here](https://youtu.be/I2Burmz7nPA).  Following on from this a small team was formed to take this project further, developing the service architechture to validate the input data.  Sadly the decision was taken to pause this project, however a great deal of new technology was investigated and this has proven to be valuable for subsequent projects.
 
 Following on from this I have lead the initiative to convert all of our analysis pipelines to use containers.  This has allowed us to offer our users the ability to fix algorithm versions for the life of their analysis projects.
 
