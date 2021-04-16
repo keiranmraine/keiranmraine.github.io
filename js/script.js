@@ -45,9 +45,9 @@ function pubMedToMd(pmRecs) {
   var mdStr='# Papers\n';
   for (var i=0,  tot=pmRecs.length; i < tot; i++) {
     var rec = pmRecs[i];
-    mdStr += '* ['+rec['Title']+'](https://www.ncbi.nlm.nih.gov'+rec['URL']+')';
-    mdStr += ' *'+rec['ShortDetails']+'*  \n';
-    mdStr += rec['Description'].replace(/(Raine [^,]+)/, '**$1**')+'\n';
+    mdStr += '* ['+rec['Title']+'](https://pubmed.ncbi.nlm.nih.gov/'+rec['PMID']+')';
+    mdStr += ' *'+rec['Journal/Book']+'. '+rec['Publication Year']+'*  \n';
+    mdStr += rec['Authors'].replace(/(Raine [^,]+)/, '**$1**')+'\n';
   }
   mdStr += '### PubMed query\nBase data generated using the following PubMed query and exporting as csv:\n';
   mdStr += '```\nRaine Keiran [Author - Full]\n```\n';
