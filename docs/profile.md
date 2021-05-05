@@ -19,11 +19,11 @@ I am a member of the following initiatives:
 
 * [ICGC PanCancer Analysis of Whole Genomes](https://dcc.icgc.org/pcawg) Technical working group
 * [ICGCmed](https://icgcmed.org/) Data Management Working group
-  * Occasional consultation, not regular atendee
-  * Data Coordination
-  * Software Engineering
+    * Occasional consultation, not regular atendee
+    * Data Coordination
+    * Software Engineering
 * [PPCG](https://panprostate.org/) Technical working group
-  * Occasional consultation, not regular atendee
+    * Occasional consultation, not regular atendee
 
 ### Work history
 
