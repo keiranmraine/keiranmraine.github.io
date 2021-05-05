@@ -22,6 +22,17 @@
 
 ## Skills
 
+### Soft skills
+
+* Active Bystander - September 2020
+    * Wellcome Sanger Institute
+* Management in Action - 2018-2019
+    * [Talking Ape](https://www.talking-ape.com/)
+* Unconscious Bias in Recruitment and Selection - October 2017
+    * [Challenge Consultancy](https://www.challcon.com/)
+* AGILE: Agile Testing Strategies - July 2013
+    * Learning Tree - [course 1815](https://www.learningtree.co.uk/courses/1815/agile-testing-strategies-and-practices/)
+
 ### Scripting and programming languages
 
 * python (3)
@@ -36,7 +47,6 @@
     * CGI, DBI
 * bash
     * proficient
-
 
 ### Cloud, virtualisation and related tools
 

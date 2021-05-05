@@ -6,7 +6,10 @@ Husband, father, bioinformatician.
 
 My GitHub account: [keiranmraine](https://github.com/keiranmraine)
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5634-1539" href="https://orcid.org/0000-0002-5634-1539" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5634-1539</a></div>
+
 ### Current position
+
 Principal Software developer, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Sanger Institute](http://www.sanger.ac.uk/).
 
 Much of my development time is spent improving the usability of the teams
