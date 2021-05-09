@@ -1,34 +1,6 @@
-# Profile
+# Work history
 
-### In short
-
-Husband, father, bioinformatician.
-
-My GitHub account: [keiranmraine](https://github.com/keiranmraine)
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5634-1539" href="https://orcid.org/0000-0002-5634-1539" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5634-1539</a></div>
-
-### Current position
-
-Principal Software developer, [Cancer Ageing and Somatic Mutation](http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics) (CASM), [The Wellcome Sanger Institute](http://www.sanger.ac.uk/).
-
-Much of my development time is spent improving the usability of the teams
-code, specifically with the intent of making it possible for collaborators to reproduce
-findings independently using the same software stack.
-
-### Global Projects
-
-I am a member of the following initiatives:
-
-* [ICGC PanCancer Analysis of Whole Genomes](https://dcc.icgc.org/pcawg) Technical working group
-* [ICGCmed](https://icgcmed.org/) Data Management Working group
-    * Occasional consultation, not regular atendee
-    * Data Coordination
-    * Software Engineering
-* [PPCG](https://panprostate.org/) Technical working group
-    * Occasional consultation, not regular atendee
-
-### Work history
+## 2002-2007
 
 I originally joined the Cancer Genome Project (CGP) at the Sanger Institute (now CASM) in 2002 on completion of my M.Sc in Bioinformatics.  At that time I was responsible for developing an integrated Laboratory Information Management System (LIMS) to support PCR heteroduplex analysis.  This involved database design, Perl-CGI web-development and integration of [TECAN](http://www.tecan.com/) lab robots.  This system continues to be used
 largely unchanged for sample tracking in the CASM laboratory.  During this time I also contributed to very early versions of the [COSMIC database](http://cancer.sanger.ac.uk/cosmic).
@@ -36,7 +8,11 @@ largely unchanged for sample tracking in the CASM laboratory.  During this time 
 During 2004 CGP moved heavily into capillary sequencing (also known as [Sanger sequencing](https://en.wikipedia.org/wiki/Sanger_sequencing)).  Once the LIMS was adapted
 I moved on to developing a high throughput pipeline to run the [autoCSA](http://www.ncbi.nlm.nih.gov/pubmed/17485433) analysis software.  The control software was written using JAVA, and a public desktop application, a.k.a. [StandaloneCSA](http://cancerit.github.io/AutoCSA/), was created for the external use and release early 2007.  This was a large project involving many developers working together on various aspects including database design, the analysis pipeline itself and a web-application used for visual inspection of the called variants by scientific staff.
 
+## 2007-2009
+
 In 2007 I left the CGP and joined [Roche Pharmaceuticals](http://www.roche.com/) as a Clinical Programmer.  Here I gained experience of [good clinical practice](https://en.wikipedia.org/wiki/Good_clinical_practice) while building data capture and cleaning tools using [Oracle Clinical](http://www.oracle.com/us/products/applications/health-sciences/e-clinical/clinical/index.html).
+
+## 2009-Current
 
 After 2 years at Roche I returned to the CGP in 2009.  Although this may seem an unusual career choice the advent of next generation sequencing had significantly changed the challenges and work being undertaken.  One of the primary differences in the data was the sheer volume being generated.  The initial project was to create a pipeline to run the mapping of [Illumina paired-end sequencing](https://www.illumina.com/technology/next-generation-sequencing/paired-end-sequencing_assay.html), supporting multiple species and builds.
 
@@ -56,6 +32,6 @@ During 2017 I prototyped a full-stack system for reciept of external sequencing 
 
 Following on from this I have lead the initiative to convert all of our analysis pipelines to use containers.  This has allowed us to offer our users the ability to fix algorithm versions for the life of their analysis projects.
 
-### Readers note
+## Readers note
 
 Above I have detailed projects that I have been heavily involved in.  Although I may have worked exclusively on some of these it should be noted that I value the advice and expertise of those around me.  The 'cancerit' team is an excellent group of people from varied backgrounds who draw on each others strengths.  The team is also supported by the core informatics and infrastructure groups at the Sanger Institute.

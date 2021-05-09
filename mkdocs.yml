@@ -1,0 +1,7 @@
+site_name: Keiran M Raine M.Sc.
+theme:
+  name: material
+  logo: ./images/profile.jpg
+  palette:
+    primary: blue grey
+  favicon: images/favicon32c256.png
