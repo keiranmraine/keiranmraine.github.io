@@ -17,5 +17,5 @@ Before release:
 cd mkdocs
 mkdocs build  -d ../docs
 cd ../
-git commit -m "update comment" docs mkdocs
+git commit ...
 ```
