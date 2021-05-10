@@ -3,7 +3,16 @@ theme:
   name: material
   logo: ./images/profile.jpg
   palette:
-    primary: blue grey
+    - primary: blue grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+        primary: blue grey
+    - primary: grey
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   favicon: images/favicon32c256.png
 extra:
   social:
@@ -13,3 +22,6 @@ extra:
       link: https://twitter.com/keiranmraine
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/keiranraine/
+copyright: Copyright &copy; 2017-2021 Keiran M. Raine
+repo_url: https://github.com/keiranmraine/keiranmraine.github.io
+repo_name: keiranmraine.github.io
