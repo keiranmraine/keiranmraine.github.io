@@ -5,3 +5,11 @@ theme:
   palette:
     primary: blue grey
   favicon: images/favicon32c256.png
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/keiranmraine
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/keiranmraine
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/keiranraine/

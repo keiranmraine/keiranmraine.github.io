@@ -8,7 +8,7 @@ I've decided to refresh this for a couple of reasons:
 
 ## Choosing a site generator
 
-My original site already worked from markdown files and I want to continue like this.  I pretty much write all my documentaion
+My original site already worked from markdown files and I want to continue like this.  I pretty much write all my documentation
 in markdown.  Here are the items I looked at:
 
 - [Jekyll][jekyll-url]
@@ -20,7 +20,7 @@ in markdown.  Here are the items I looked at:
 Jekyll is a well established static site generator, with direct integration into github pages.  This seemed like the obvious
 place to start as I'm going to host it on github-pages.
 
-I quickly found that if you've worked with other site generators Jekyll can feel ovely complex.  I suspect this is due to
+I quickly found that if you've worked with other site generators Jekyll can feel overly complex.  I suspect this is due to
 flexibility, but for what I needed it was too much.  I also wasn't a big fan of the available themes.
 
 ### MkDocs
@@ -41,7 +41,7 @@ docs/
 
 ![MkDocs default](./mkdocs-default.png)
 
-The above requires no configurmation at all, but obviously you still want to do some.
+The above requires no configuration at all, but obviously you still want to do some.
 
 Before I go further, I want my site to have a clean look and feel.  MkDocs has a limited number of themes, Read the Docs
 isn't bad but there is an extension project which I recently used and have found it good.  As I'm leaning towards MkDocs
@@ -51,7 +51,7 @@ over Jekyll, lets take that next step before I get bogged down on layout and con
 
 This was the selected tool (at time of writing).
 
-As the title suggests, this is mkdocs focused on [Material Design][matrialio-url] components.
+As the title suggests, this is MkDocs focused on [Material Design][matrialio-url] components.
 
 The first thing you notice when you apply the material theme is that you automatically get a left and right sidebar.  The left sidebar
 gives you the site navigation, very similar to the document tree:
@@ -69,7 +69,7 @@ As I'm thinking of writing blog posts semi-regularly it makes sense to give peop
 This is hosted in the GitHub eco-system and I don't really want to be pushing people to another service for comments so
 I did a little digging and found [utterances][utterances-url].
 
-This bascially uses the repos issue tracking system to allow comments, see it in action below.
+This basically uses the repositories issue tracking system to allow comments, see it in action below.
 
 ## Comments
 

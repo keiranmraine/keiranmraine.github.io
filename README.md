@@ -1,5 +1,21 @@
 # keiranmraine.github.io
+
 Extended info about me
 
-`docs/papers.csv` generated with pubmed query 'Raine Keiran [Author - Full]' and exported as CSV.
-File needs `,` trimming from end of line.
+## MkDocs
+
+Use MkDocs.  Render locally for testing:
+
+```bash
+cd mkdocs
+mkdocs serve -a 0.0.0.0:8000
+```
+
+Before release:
+
+```bash
+cd mkdocs
+mkdocs build  -d ../docs
+cd ../
+git commit -m "update comment" docs mkdocs
+```
