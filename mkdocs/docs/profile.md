@@ -65,7 +65,7 @@ closely with the IT group at OICR I implemented the 'Sanger' pipeline into the f
 around the world.  This pipeline ran successfully in 13 locations on a variety of base infrastructures including AWS, Azure,
 OpenStack and traditional HPC.
 
-Following on from this project I continue to advise in the [ICGC-ARGO][argo-url] data management group and the [PPCG][[ppcg-url]
+Following on from this project I continue to advise in the [ICGC-ARGO][argo-url] data management group and the \[PPCG\]\[[ppcg-url]
 technical working group.
 
 ### Containers for reproducible science
@@ -94,7 +94,8 @@ group of people from varied backgrounds who draw on each others strengths.  The 
 and infrastructure groups at the Sanger Institute.
 
 <!-- references -->
-[pcawg-url]: https://dcc.icgc.org/pcawg
-[ppcg-url]: https://panprostate.org/
+
 [argo-url]: https://www.icgc-argo.org/
 [gdc-url]: https://gdc.cancer.gov/
+[pcawg-url]: https://dcc.icgc.org/pcawg
+[ppcg-url]: https://panprostate.org/

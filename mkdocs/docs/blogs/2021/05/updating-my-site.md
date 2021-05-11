@@ -3,8 +3,8 @@
 I've decided to refresh this for a couple of reasons:
 
 1. It looks a little tired.  Originally created doing it "my way", mainly as a "live CV".
-2. I feel like I have something to contribute via blog posts.
-3. Interested in including some user interaction/feedback.
+1. I feel like I have something to contribute via blog posts.
+1. Interested in including some user interaction/feedback.
 
 ## Choosing a site generator
 
@@ -83,9 +83,10 @@ This basically uses the repositories issue tracking system to allow comments, se
 </script>
 
 <!-- refs -->
-[utterances-url]: https://utteranc.es/
+
 [jekyll-url]: https://jekyllrb.com/
-[mkdocs-url]: https://www.mkdocs.org/
 [material-url]: https://squidfunk.github.io/mkdocs-material/
 [matrialio-url]: https://material.io/
+[mkdocs-url]: https://www.mkdocs.org/
+[utterances-url]: https://utteranc.es/
 [wiki-burger]: https://en.wikipedia.org/wiki/Hamburger_button

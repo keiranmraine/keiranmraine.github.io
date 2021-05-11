@@ -4,116 +4,116 @@
 
 ### M.Sc. Bioinformatics
 
-* University of Manchester
-* 2001-2002
-* Project
-    * Finding the immunogenic needle in the immunological haystack: a comparative study of context dependent text mining.
-    * [Edward Jenner Institute for Vaccine Research](http://www.jenner.ac.uk/home)
-    * Supervisor [Dr Darren Flower](http://www.aston.ac.uk/lhs/staff/az-index/dr-darren-flower/)
+- University of Manchester
+- 2001-2002
+- Project
+  - Finding the immunogenic needle in the immunological haystack: a comparative study of context dependent text mining.
+  - [Edward Jenner Institute for Vaccine Research](http://www.jenner.ac.uk/home)
+  - Supervisor [Dr Darren Flower](http://www.aston.ac.uk/lhs/staff/az-index/dr-darren-flower/)
 
 ### B.Sc. (Hons) Biomedical Sciences, 2:1
 
-* University of Durham
-* 1998-2001
-* Project
-    * The Chromosome 19 Limb-Girdle Muscular Dystrophy Gene (LGMD2I). Candidate Gene Analysis.
-    * [University of Durham, Department of Biosciences](https://www.dur.ac.uk/biosciences/)
-    * Supervisor [Dr Rumaisa Bashir](https://www.dur.ac.uk/biosciences/about/schoolstaff/academicstaff/?id=3)
+- University of Durham
+- 1998-2001
+- Project
+  - The Chromosome 19 Limb-Girdle Muscular Dystrophy Gene (LGMD2I). Candidate Gene Analysis.
+  - [University of Durham, Department of Biosciences](https://www.dur.ac.uk/biosciences/)
+  - Supervisor [Dr Rumaisa Bashir](https://www.dur.ac.uk/biosciences/about/schoolstaff/academicstaff/?id=3)
 
 ## Skills
 
 ### Soft skills
 
-* Active Bystander - September 2020
-    * Wellcome Sanger Institute
-* Management in Action - 2018-2019
-    * [Talking Ape](https://www.talking-ape.com/)
-* Unconscious Bias in Recruitment and Selection - October 2017
-    * [Challenge Consultancy](https://www.challcon.com/)
-* AGILE: Agile Testing Strategies - July 2013
-    * Learning Tree - [course 1815](https://www.learningtree.co.uk/courses/1815/agile-testing-strategies-and-practices/)
+- Active Bystander - September 2020
+  - Wellcome Sanger Institute
+- Management in Action - 2018-2019
+  - [Talking Ape](https://www.talking-ape.com/)
+- Unconscious Bias in Recruitment and Selection - October 2017
+  - [Challenge Consultancy](https://www.challcon.com/)
+- AGILE: Agile Testing Strategies - July 2013
+  - Learning Tree - [course 1815](https://www.learningtree.co.uk/courses/1815/agile-testing-strategies-and-practices/)
 
 ### Scripting and programming languages
 
-* python (3)
-    * General scripting, packages
-    * Database access
-    * Web-services
-    * Cython, pyCuda
-        * Recent skill development
-* perl
-    * 18 years experience
-    * Object Oriented design
-    * CGI, DBI
-* bash
-    * proficient
+- python (3)
+  - General scripting, packages
+  - Database access
+  - Web-services
+  - Cython, pyCuda
+    - Recent skill development
+- perl
+  - 18 years experience
+  - Object Oriented design
+  - CGI, DBI
+- bash
+  - proficient
 
 ### Cloud, virtualisation and related tools
 
-* [AWS](https://aws.amazon.com/)
-    * General use of virtual instances and volumes.
-    * [Polly](https://aws.amazon.com/polly/) for training video voice-overs.
-* [OpenStack](https://www.openstack.org/)
-    * Tools for host management and deployment, applicable to other environments but used mainly here:
-        * [Packer](https://www.packer.io/) - image building
-        * [Terraform](https://www.terraform.io/) - infrastructure deployment
-* Containerisation tools
-    * [Docker](https://www.docker.com/)
-        * Use of build stages for smaller deployments
-        * Experience of docker-swarm
-    * [Singularity](https://sylabs.io/singularity/)
-        * Mainly usage and ensuring docker containers are compatible.
-        * More portable to develop via Dockerfile and convert.
-    * Specialised registries - workflow + container
-        * [Dockstore](https://dockstore.org)
+- [AWS](https://aws.amazon.com/)
+  - General use of virtual instances and volumes.
+  - [Polly](https://aws.amazon.com/polly/) for training video voice-overs.
+- [OpenStack](https://www.openstack.org/)
+  - Tools for host management and deployment, applicable to other environments but used mainly here:
+    - [Packer](https://www.packer.io/) - image building
+    - [Terraform](https://www.terraform.io/) - infrastructure deployment
+- Containerisation tools
+  - [Docker](https://www.docker.com/)
+    - Use of build stages for smaller deployments
+    - Experience of docker-swarm
+  - [Singularity](https://sylabs.io/singularity/)
+    - Mainly usage and ensuring docker containers are compatible.
+    - More portable to develop via Dockerfile and convert.
+  - Specialised registries - workflow + container
+    - [Dockstore](https://dockstore.org)
 
 ### Web-development
 
-* [nginx](https://www.nginx.com/resources/wiki/)
-* HTML, CSS - intermediate
-* JavaScript - proficient
-* React - slightly stale
+- [nginx](https://www.nginx.com/resources/wiki/)
+- HTML, CSS - intermediate
+- JavaScript - proficient
+- React - slightly stale
 
 ### Databases
 
-* Oracle - main experience including query optimisation.
-* SQLite, PostgreSQL, MySQL
+- Oracle - main experience including query optimisation.
+- SQLite, PostgreSQL, MySQL
 
 ### Version control
 
-* git/GitHub/GitLab
-    * GitFlow/HubFLow methodology preferred
-* SVN
-* CVS
+- git/GitHub/GitLab
+  - GitFlow/HubFLow methodology preferred
+- SVN
+- CVS
 
 ### Genome browsers
 
-* [JBrowse](https://jbrowse.org)
-    * Configuration and usage
-    * Plugin development
-* [GBrowse](http://gmod.org/wiki/GBrowse)
-    * Configuration and usage
-* [IGV](http://software.broadinstitute.org/software/igv/)
-    * Configuration and usage
+- [JBrowse](https://jbrowse.org)
+  - Configuration and usage
+  - Plugin development
+- [GBrowse](http://gmod.org/wiki/GBrowse)
+  - Configuration and usage
+- [IGV](http://software.broadinstitute.org/software/igv/)
+  - Configuration and usage
 
 ### Other development skills
 
 This section details languages I have some experience but would not consider myself to be proficient.
 
-* Workflow languages
-    * Common Workflow Language
-    * Nexflow - training and debugging of flows generated by others only
-* NodeJS
-    * Microservice development
-* C/C++
-    * Compilation, Makefile correction
-    * Online courses, Debugging
-* R
-    * Debugging, investigating and cleaning up code for pipelines/external use.
-    * Library installation
-* Message Queues
-    * RabbitMQ - https://github.com/cancerit/WwDocker (JAVA)
-* JAVA
-    * Used intermittently over 15 years, stale
-* [Ellexus](https://www.ellexus.com/) optimization tools
-    * I/O profiling - See collaboration [whitepaper](https://www.ellexus.com/whitepaper-accelerating-wellcome-sanger-institutes-cloud-based-genomics-pipelines-through-i-o-profiling/)
+- Workflow languages
+  - Common Workflow Language
+  - Nexflow - training and debugging of flows generated by others only
+- NodeJS
+  - Microservice development
+- C/C++
+  - Compilation, Makefile correction
+  - Online courses, Debugging
+- R
+  - Debugging, investigating and cleaning up code for pipelines/external use.
+  - Library installation
+- Message Queues
+  - RabbitMQ - https://github.com/cancerit/WwDocker (JAVA)
+- JAVA
+  - Used intermittently over 15 years, stale
+- [Ellexus](https://www.ellexus.com/) optimization tools
+  - I/O profiling - See collaboration [whitepaper](https://www.ellexus.com/whitepaper-accelerating-wellcome-sanger-institutes-cloud-based-genomics-pipelines-through-i-o-profiling/)

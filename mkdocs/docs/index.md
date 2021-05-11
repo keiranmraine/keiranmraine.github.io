@@ -15,14 +15,17 @@ You can find more detail [here](./profile).
 
 I am a member of the following initiatives:
 
-* [ICGC ARGO][argo-url] Data Management Working group
-    * Occasional consultation, not regular attendee
-* [PPCG][ppcg-url] Technical working group
-    * Occasional consultation, not regular attendee
+- [ICGC ARGO][argo-url] Data Management Working group
+  - Occasional consultation, not regular attendee
+- [PPCG][ppcg-url] Technical working group
+  - Occasional consultation, not regular attendee
 
 I was heavily involved in the [ICGC PanCancer Analysis of Whole Genomes][pcawg-url] as a member of:
-    * Technical working group
-    * QC working group
+
+```
+* Technical working group
+* QC working group
+```
 
 ## GitHub
 
@@ -36,8 +39,9 @@ You can view my publications via the ORCID system:
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5634-1539" href="https://orcid.org/0000-0002-5634-1539" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5634-1539</a></div>
 
 <!-- references -->
+
+[argo-url]: https://www.icgc-argo.org/
 [casm-url]: http://www.sanger.ac.uk/science/programmes/cancer-genetics-and-genomics
-[wsi-url]: http://www.sanger.ac.uk/
 [pcawg-url]: https://dcc.icgc.org/pcawg
 [ppcg-url]: https://panprostate.org/
-[argo-url]: https://www.icgc-argo.org/
+[wsi-url]: http://www.sanger.ac.uk/
