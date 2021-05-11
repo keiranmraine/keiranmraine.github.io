@@ -22,10 +22,8 @@ I am a member of the following initiatives:
 
 I was heavily involved in the [ICGC PanCancer Analysis of Whole Genomes][pcawg-url] as a member of:
 
-```
-* Technical working group
-* QC working group
-```
+- Technical working group
+- QC working group
 
 ## GitHub
 
