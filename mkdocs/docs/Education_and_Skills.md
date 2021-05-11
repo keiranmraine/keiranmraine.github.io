@@ -40,7 +40,7 @@
     - Database access
     - Web-services
     - Cython, pyCuda
-    - Recent skill development
+        - Recent skill development
 - perl
     - 18 years experience
     - Object Oriented design
