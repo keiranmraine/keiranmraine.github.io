@@ -115,3 +115,5 @@ This section details languages I have some experience but would not consider mys
     * RabbitMQ - https://github.com/cancerit/WwDocker (JAVA)
 * JAVA
     * Used intermittently over 15 years, stale
+* [Ellexus](https://www.ellexus.com/) optimization tools
+    * I/O profiling - See collaboration [whitepaper](https://www.ellexus.com/whitepaper-accelerating-wellcome-sanger-institutes-cloud-based-genomics-pipelines-through-i-o-profiling/)
