@@ -18,7 +18,7 @@
 - Project
     - The Chromosome 19 Limb-Girdle Muscular Dystrophy Gene (LGMD2I). Candidate Gene Analysis.
     - [University of Durham, Department of Biosciences](https://www.dur.ac.uk/biosciences/)
-    - Supervisor [Dr Rumaisa Bashir](https://www.dur.ac.uk/biosciences/about/schoolstaff/academicstaff/?id=3)
+    - Supervisor [Dr Rumaisa Bashir](https://www.linkedin.com/in/rumaisa-bashir-ba7628153/)
 
 ## Skills
 
