@@ -47,13 +47,14 @@ As part of the analysis pipeline work I brought [GBrowse](http://gmod.org/wiki/G
 managed genome browser.  GBrowse relies on server side compute and a traditional database backend to provide the images.
 In 2012 [JBrowse](http://jbrowse.org/) matured to a state where BAM data could be directly handled in the browser.  Due
 to this, and no further development on GBrowse, we have been actively working with the GMOD community to ensure features
-of GBrowse that our scientific staff consider important are replicated.  We formally retired our GBrowse instance a few years
-ago.
+of GBrowse that our scientific staff consider important are replicated.  We formally retired our GBrowse instance a few
+years ago.
 
 During 2016 I developed a plugin for JBrowse, [proportionalMultiBw](https://github.com/cancerit/proportionalmultibw/blob/master/README.md)
 (prototyped in my own time) to aid in the visualization of allele fraction in regions of very high sequencing depth.  I've
 additionally produced a general purpose tool for automating generation of screen shots, see [cgpJBrowseToolkit](https://github.com/cancerit/cgpJBrowseToolkit/blob/master/README.md).
-The new JBrowse 2 embraces this screenshot feature making this a core component of this new version of the tool (not based on my code).
+The new JBrowse 2 embraces this screenshot feature making this a core component of this new version of the tool (not based
+on my code).
 
 ### Global projects
 
@@ -80,11 +81,11 @@ allowed us to offer our users the ability to fix algorithm versions for the life
 
 ### Full stack development experience
 
-During 2017 I prototyped a full-stack system for receipt of external sequencing data via web-interface and S3, backed by web-services
-hosted in our OpenStack flexible compute farm.  Some of this can be viewed [here](https://youtu.be/I2Burmz7nPA).  Following
-on from this a small team was formed to take this project further, developing the service architecture to validate the input data.
-Sadly the decision was taken to pause this project, however a great deal of new technology was investigated and this has
-proven to be valuable for subsequent projects.
+During 2017 I prototyped a full-stack system for receipt of external sequencing data via web-interface and S3, backed by
+web-services hosted in our OpenStack flexible compute farm.  Some of this can be viewed [here](https://youtu.be/I2Burmz7nPA).
+Following on from this a small team was formed to take this project further, developing the service architecture to validate
+the input data.  Sadly the decision was taken to pause this project, however a great deal of new technology was investigated
+and this has proven to be valuable for subsequent projects.
 
 ## Readers note
 

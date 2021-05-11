@@ -20,8 +20,8 @@ in markdown.  Here are the items I looked at:
 Jekyll is a well established static site generator, with direct integration into github pages.  This seemed like the obvious
 place to start as I'm going to host it on github-pages.
 
-I quickly found that if you've worked with other site generators Jekyll can feel overly complex.  I suspect this is due to
-flexibility, but for what I needed it was too much.  I also wasn't a big fan of the available themes.
+I quickly found that if you've worked with other site generators Jekyll can feel overly complex.  I suspect this is due
+to flexibility, but for what I needed it was too much.  I also wasn't a big fan of the available themes.
 
 ### MkDocs
 
@@ -53,8 +53,8 @@ This was the selected tool (at time of writing).
 
 As the title suggests, this is MkDocs focused on [Material Design][matrialio-url] components.
 
-The first thing you notice when you apply the material theme is that you automatically get a left and right sidebar.  The left sidebar
-gives you the site navigation, very similar to the document tree:
+The first thing you notice when you apply the material theme is that you automatically get a left and right sidebar.  The
+left sidebar gives you the site navigation, very similar to the document tree:
 
 ![Material doctree](./material-doctree.png)
 

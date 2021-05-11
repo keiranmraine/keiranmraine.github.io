@@ -16,9 +16,9 @@ You can find more detail [here](./profile).
 I am a member of the following initiatives:
 
 - [ICGC ARGO][argo-url] Data Management Working group
-  - Occasional consultation, not regular attendee
+    - Occasional consultation, not regular attendee
 - [PPCG][ppcg-url] Technical working group
-  - Occasional consultation, not regular attendee
+    - Occasional consultation, not regular attendee
 
 I was heavily involved in the [ICGC PanCancer Analysis of Whole Genomes][pcawg-url] as a member of:
 
@@ -27,14 +27,30 @@ I was heavily involved in the [ICGC PanCancer Analysis of Whole Genomes][pcawg-u
 
 ## GitHub
 
+<!-- markdownlint-disable MD033 -->
 <div class="github-card" data-github="keiranmraine" data-width="400" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<!-- markdownlint-enable -->
 
 ## ORCID
 
 You can view my publications via the ORCID system:
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5634-1539" href="https://orcid.org/0000-0002-5634-1539" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5634-1539</a></div>
+<!-- markdownlint-disable MD033 -->
+<div itemscope itemtype="https://schema.org/Person">
+    <a itemprop="sameAs"
+        content="https://orcid.org/0000-0002-5634-1539"
+        href="https://orcid.org/0000-0002-5634-1539"
+        target="orcid.widget"
+        rel="me noopener noreferrer"
+        style="vertical-align:top;">
+        <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+            style="width:1em;margin-right:.5em;"
+            alt="ORCID iD icon">
+        https://orcid.org/0000-0002-5634-1539
+    </a>
+</div>
+<!-- markdownlint-enable -->
 
 <!-- references -->
 

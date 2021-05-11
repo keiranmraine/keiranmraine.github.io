@@ -10,7 +10,7 @@ repos:
     -   id: check-yaml
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
--   repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.5
+-   repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.1.3
     hooks:
-    -   id: mdformat
+    -   id: markdownlint-cli2
