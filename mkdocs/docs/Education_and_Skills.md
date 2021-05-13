@@ -116,9 +116,10 @@ This section details languages I have some experience but would not consider mys
 - JAVA
     - Used intermittently over 15 years, stale
 - [Ellexus](https://www.ellexus.com/) optimization tools
-    - I/O profiling - See collaboration [whitepaper][whitepaper-url]
+    - I/O profiling - See collaboration [whitepaper][whitepaper-url] and [Letter][altair-letter]
 
 <!-- refs -->
 [whitepaper-url]: https://www.ellexus.com/whitepaper-accelerating-wellcome-sanger-institutes-cloud-based-genomics-pipelines-through-i-o-profiling/
+[altair-letter]: https://resources.altair.com/resfile_web_path/file-en/Mistral_CustomerStory_SangerInstitute_Letter_102220.pdf
 [wwdocker-url]: https://github.com/cancerit/WwDocker
 [lt-agile-url]: https://www.learningtree.co.uk/courses/1815/agile-testing-strategies-and-practices/

@@ -3,7 +3,7 @@
 ## 2018
 
 - December: [AWS partner event: HPC in Healthcare and Life Sciences](https://www.ellexus.com/aws-partner/)
-    - Also see [whitepaper](https://www.ellexus.com/whitepaper-accelerating-wellcome-sanger-institutes-cloud-based-genomics-pipelines-through-i-o-profiling/)
+    - Also see [whitepaper][whitepaper-url] and [Letter][altair-letter]
 - June: [GCC-BOSC 2018](https://gccbosc2018.sched.com/)
     - Modernising somatic mutation calling pipelines with Open Source tools and Containers
         - [Poster](https://drive.google.com/file/d/1GtHBB2A5U32bfjRMTj-gaTmfeLvgIUa9/view?usp=sharing)
@@ -22,3 +22,7 @@
         - [Poster](https://drive.google.com/file/d/1SJnSnMVVcmyn35DV4XevCtfUF_-RhpAn/view?usp=sharing)
     - Updates from the Cancer Genome Project
         - Lightning talk - [Slides](http://gmod.org/mediawiki/images/e/e4/2014_CGP_updates.pdf)
+
+<!-- references -->
+[whitepaper-url]: https://www.ellexus.com/whitepaper-accelerating-wellcome-sanger-institutes-cloud-based-genomics-pipelines-through-i-o-profiling/
+[altair-letter]: https://resources.altair.com/resfile_web_path/file-en/Mistral_CustomerStory_SangerInstitute_Letter_102220.pdf
