@@ -9,8 +9,8 @@ On fresh checkout:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install mkdocs-material pre-commit
-
+pip install mkdocs-material
+# using global pre-commit install
 pre-commit install
 ```
 
