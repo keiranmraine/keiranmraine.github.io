@@ -89,3 +89,14 @@ Host named-host
   HostName somehost
   ProxyJump user@ssh.someplace.ac.uk
 ```
+
+## Comments
+
+<script src="https://utteranc.es/client.js"
+        repo="keiranmraine/keiranmraine.github.io"
+        issue-term="url"
+        label="comments"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>

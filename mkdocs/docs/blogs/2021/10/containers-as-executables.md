@@ -121,3 +121,14 @@ Usage:
 For each command you want to expose to the user create a shim-script.
 
 Note: you shouldn't expose all the tools in the container, just the unique items the container was built for.
+
+## Comments
+
+<script src="https://utteranc.es/client.js"
+        repo="keiranmraine/keiranmraine.github.io"
+        issue-term="url"
+        label="comments"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
