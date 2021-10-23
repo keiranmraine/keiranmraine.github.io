@@ -11,7 +11,7 @@ CASM laboratory.  During this time I also contributed to very early versions of 
 During 2004 CGP moved heavily into capillary sequencing (also known as [Sanger sequencing](https://en.wikipedia.org/wiki/Sanger_sequencing)).
 Once the LIMS was adapted I moved on to developing a high throughput pipeline to run the [autoCSA](http://www.ncbi.nlm.nih.gov/pubmed/17485433)
 analysis software.  The control software was written using JAVA, and a public desktop application, a.k.a. [StandaloneCSA](http://cancerit.github.io/AutoCSA/),
-was created for the external use and release early 2007.  This was a large project involving many developers working together
+was created for external use and released early 2007.  This was a large project involving many developers working together
 on various aspects including database design, the analysis pipeline itself and a web-application used for visual inspection
 of the called variants by scientific staff.
 
