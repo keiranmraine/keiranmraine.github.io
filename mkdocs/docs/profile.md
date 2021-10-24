@@ -66,7 +66,7 @@ closely with the IT group at OICR I implemented the 'Sanger' pipeline into the f
 around the world.  This pipeline ran successfully in 13 locations on a variety of base infrastructures including AWS, Azure,
 OpenStack and traditional HPC.
 
-Following on from this project I continue to advise in the [ICGC-ARGO][argo-url] data management group and the \[PPCG\]\[[ppcg-url]
+Following on from this project I continue to advise in the [ICGC-ARGO][argo-url] data management group and the [PPCG][ppcg-url]
 technical working group.
 
 ### Containers for reproducible science
