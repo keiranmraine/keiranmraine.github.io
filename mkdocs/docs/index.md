@@ -43,4 +43,4 @@ You can view my publications via the PubMed Bibliography service [here][pubmed-b
 [pcawg-url]: https://dcc.icgc.org/pcawg
 [ppcg-url]: https://panprostate.org/
 [wsi-url]: http://www.sanger.ac.uk/
-[pubmem-bib]: https://www.ncbi.nlm.nih.gov/myncbi/keiran%20m.raine.1/bibliography/public/
+[pubmed-bib]: https://www.ncbi.nlm.nih.gov/myncbi/keiran%20m.raine.1/bibliography/public/
