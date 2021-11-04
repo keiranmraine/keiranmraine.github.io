@@ -32,25 +32,9 @@ I was heavily involved in the [ICGC PanCancer Analysis of Whole Genomes][pcawg-u
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <!-- markdownlint-enable -->
 
-## ORCID
+## Publications
 
-You can view my publications via the ORCID system:
-
-<!-- markdownlint-disable MD033 -->
-<div itemscope itemtype="https://schema.org/Person">
-    <a itemprop="sameAs"
-        content="https://orcid.org/0000-0002-5634-1539"
-        href="https://orcid.org/0000-0002-5634-1539"
-        target="orcid.widget"
-        rel="me noopener noreferrer"
-        style="vertical-align:top;">
-        <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-            style="width:1em;margin-right:.5em;"
-            alt="ORCID iD icon">
-        https://orcid.org/0000-0002-5634-1539
-    </a>
-</div>
-<!-- markdownlint-enable -->
+You can view my publications via the PubMed Bibliography service [here][pubmed-bib].
 
 <!-- references -->
 
@@ -59,3 +43,4 @@ You can view my publications via the ORCID system:
 [pcawg-url]: https://dcc.icgc.org/pcawg
 [ppcg-url]: https://panprostate.org/
 [wsi-url]: http://www.sanger.ac.uk/
+[pubmem-bib]: https://www.ncbi.nlm.nih.gov/myncbi/keiran%20m.raine.1/bibliography/public/
