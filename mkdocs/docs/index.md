@@ -28,7 +28,7 @@ I was heavily involved in the [ICGC PanCancer Analysis of Whole Genomes][pcawg-u
 ## GitHub
 
 <!-- markdownlint-disable MD033 -->
-<div class="github-card" data-github="keiranmraine" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="keiranmraine" data-width="400" data-height="" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <!-- markdownlint-enable -->
 
