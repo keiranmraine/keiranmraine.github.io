@@ -1,5 +1,18 @@
 # Education & Skills
 
+- [Education](#education)
+    - [M.Sc. Bioinformatics](#msc-bioinformatics)
+    - [B.Sc. (Hons) Biomedical Sciences, 2:1](#bsc-hons-biomedical-sciences-21)
+- [Skills](#skills)
+    - [Soft skills](#soft-skills)
+    - [Scripting and programming languages](#scripting-and-programming-languages)
+    - [Cloud, virtualisation and related tools](#cloud-virtualisation-and-related-tools)
+    - [Web-development](#web-development)
+    - [Databases](#databases)
+    - [Version control](#version-control)
+    - [Genome browsers](#genome-browsers)
+    - [Other development skills](#other-development-skills)
+
 ## Education
 
 ### M.Sc. Bioinformatics

@@ -2,6 +2,8 @@
 
 Husband, father, software-developer / bioinformatician.
 
+Pronouns: he, him
+
 ## Current position
 
 Principal Software developer, [Cancer Ageing and Somatic Mutation][casm-url] (CASM), [Wellcome Sanger Institute][wsi-url].
@@ -28,7 +30,7 @@ I was heavily involved in the [ICGC PanCancer Analysis of Whole Genomes][pcawg-u
 ## GitHub
 
 <!-- markdownlint-disable MD033 -->
-<div class="github-card" data-github="keiranmraine" data-width="400" data-height="" data-theme="medium"></div>
+<div class="github-card" data-github="keiranmraine" data-width="400" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <!-- markdownlint-enable -->
 

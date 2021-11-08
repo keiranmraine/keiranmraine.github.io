@@ -1,5 +1,9 @@
 # Conferences and meetings
 
+- [2018](#2018)
+- [2017](#2017)
+- [2014](#2014)
+
 ## 2018
 
 - December: [AWS partner event: HPC in Healthcare and Life Sciences](https://www.ellexus.com/aws-partner/)

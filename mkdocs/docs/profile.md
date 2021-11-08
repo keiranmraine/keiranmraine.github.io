@@ -1,5 +1,17 @@
 # Work history
 
+- [2002-2007](#2002-2007)
+- [2007-2009](#2007-2009)
+- [2009-Current](#2009-current)
+    - [Analysis pipelines](#analysis-pipelines)
+    - [Genome browsers](#genome-browsers)
+    - [Global projects](#global-projects)
+    - [Containers for reproducible science](#containers-for-reproducible-science)
+    - [Full stack development experience](#full-stack-development-experience)
+    - [Readers note](#readers-note)
+- [Consultancy work](#consultancy-work)
+    - [2021 - September-November](#2021---september-november)
+
 ## 2002-2007
 
 I originally joined the Cancer Genome Project (CGP) at the Sanger Institute (now CASM) in 2002 on completion of my M.Sc
@@ -93,6 +105,21 @@ Above I have detailed projects that I have been heavily involved in.  Although I
 these it should be noted that I value the advice and expertise of those around me.  The 'cancerit' team is an excellent
 group of people from varied backgrounds who draw on each others strengths.  The team is also supported by the core informatics
 and infrastructure groups at the Sanger Institute.
+
+## Consultancy work
+
+Short term consultancy projects are listed here.
+
+### 2021 - September-November
+
+Eastern AHSN (Academic Health Science Network), project scoping exercise for CYNAPSE.  The aim of CYNAPSE is to modernise
+and future-proof the computational infrastructure for genomics and wider ‘omics’ data across the NIHR Cambridge Biomedical
+Research Centre (BRC).  Insights sought on:
+
+- data storage practices for genomic data
+- workflow technologies
+- cloud platforms
+- division of responsibilities
 
 <!-- references -->
 
