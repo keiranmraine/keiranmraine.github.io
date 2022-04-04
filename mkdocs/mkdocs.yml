@@ -30,3 +30,4 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.snippets
+  - mdx_truly_sane_lists

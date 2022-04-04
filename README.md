@@ -7,9 +7,12 @@ Extended info about me.
 On fresh checkout:
 
 ```bash
-python3 -m venv venv
+python -m venv .venv
+# linux
 source venv/bin/activate
-pip install mkdocs-material
+# windows (with bash shell)
+.venv/Scripts/activate
+pip install mkdocs-material mdx_truly_sane_lists
 # using global pre-commit install
 pre-commit install
 ```

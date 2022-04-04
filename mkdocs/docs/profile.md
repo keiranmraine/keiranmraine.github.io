@@ -1,18 +1,24 @@
 # Work history
 
-- [2002-2007](#2002-2007)
-- [2007-2009](#2007-2009)
-- [2009-Current](#2009-current)
+- [Work history](#work-history)
+  - [2002-2007](#2002-2007)
+  - [2007-2009](#2007-2009)
+  - [2009-2022](#2009-2022)
     - [Analysis pipelines](#analysis-pipelines)
     - [Genome browsers](#genome-browsers)
     - [Global projects](#global-projects)
     - [Containers for reproducible science](#containers-for-reproducible-science)
     - [Full stack development experience](#full-stack-development-experience)
     - [Readers note](#readers-note)
-- [Consultancy work](#consultancy-work)
-    - [2021 - September-November](#2021---september-november)
+  - [2022 - current](#2022---current)
+  - [Consultancy work](#consultancy-work)
+    - [September 2021 - March 2022](#september-2021---march-2022)
 
 ## 2002-2007
+
+- Junior Bioinformatician
+- Bioinformatician
+- Seniour Bioinformatician
 
 I originally joined the Cancer Genome Project (CGP) at the Sanger Institute (now CASM) in 2002 on completion of my M.Sc
 in Bioinformatics.  At that time I was responsible for developing an integrated Laboratory Information Management System
@@ -29,11 +35,16 @@ of the called variants by scientific staff.
 
 ## 2007-2009
 
+- Clinical Programmer
+
 In 2007 I left the CGP and joined [Roche Pharmaceuticals](http://www.roche.com/) as a Clinical Programmer.  Here I gained
 experience of [good clinical practice](https://en.wikipedia.org/wiki/Good_clinical_practice) while building data capture
 and cleaning tools using [Oracle Clinical](http://www.oracle.com/us/products/applications/health-sciences/e-clinical/clinical/index.html).
 
-## 2009-Current
+## 2009-2022
+
+- Seniour Bioinformatician
+- Principal Software Developer / Bioinformatician
 
 After 2 years at Roche I returned to the CGP in 2009.  Although this may seem an unusual career choice the advent of next
 generation sequencing had significantly changed the challenges and work being undertaken.  One of the primary differences
@@ -99,22 +110,34 @@ Following on from this a small team was formed to take this project further, dev
 the input data.  Sadly the decision was taken to pause this project, however a great deal of new technology was investigated
 and this has proven to be valuable for subsequent projects.
 
-## Readers note
+### Readers note
 
 Above I have detailed projects that I have been heavily involved in.  Although I may have worked exclusively on some of
 these it should be noted that I value the advice and expertise of those around me.  The 'cancerit' team is an excellent
 group of people from varied backgrounds who draw on each others strengths.  The team is also supported by the core informatics
 and infrastructure groups at the Sanger Institute.
 
+## 2022 - current
+
+- Head of Service, Clinical Computational Resarch Informatics
+
+Working at Eastern AHSN (Academic Health Science Network) on the CYNAPSE project.
+
+The aim of CYNAPSE is to modernise and future-proof the computational infrastructure for genomics and wider ‘omics’ data
+across the NIHR Cambridge BioResource Centre (BRC).
+
+A significant portion of the position is around requirements gathering and development of a sustainable service delivery
+team supporting a diverse omic research community.
+
 ## Consultancy work
 
 Short term consultancy projects are listed here.
 
-### 2021 - September-November
+### September 2021 - March 2022
 
 Eastern AHSN (Academic Health Science Network), project scoping exercise for CYNAPSE.  The aim of CYNAPSE is to modernise
-and future-proof the computational infrastructure for genomics and wider ‘omics’ data across the NIHR Cambridge Biomedical
-Research Centre (BRC).  Insights sought on:
+and future-proof the computational infrastructure for genomics and wider ‘omics’ data across the NIHR Cambridge BioResource
+Centre (BRC).  Insights sought on:
 
 - data storage practices for genomic data
 - workflow technologies
