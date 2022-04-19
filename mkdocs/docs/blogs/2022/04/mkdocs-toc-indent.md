@@ -15,6 +15,17 @@ markdown_extensions:
   - mdx_truly_sane_lists
 ```
 
+## Comments
+
+<script src="https://utteranc.es/client.js"
+        repo="keiranmraine/keiranmraine.github.io"
+        issue-term="url"
+        label="comments"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 <!-- refs -->
 
 [md007-url]: https://github.com/updownpress/markdown-lint/blob/master/rules/007-ul-indent.md

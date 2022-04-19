@@ -567,9 +567,40 @@
 
 
 
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Markdown TOC and Mkdocs
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+
       <a href="./" class="md-nav__link md-nav__link--active">
         Markdown TOC and Mkdocs
       </a>
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+
+
+
+
+
+
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+
+        <li class="md-nav__item">
+  <a href="#comments" class="md-nav__link">
+    Comments
+  </a>
+
+</li>
+
+    </ul>
+
+</nav>
 
     </li>
 
@@ -616,6 +647,21 @@
 
 
 
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+
+        <li class="md-nav__item">
+  <a href="#comments" class="md-nav__link">
+    Comments
+  </a>
+
+</li>
+
+    </ul>
+
 </nav>
                   </div>
                 </div>
@@ -635,12 +681,24 @@
 <h1 id="markdown-toc-and-mkdocs">Markdown TOC and Mkdocs</h1>
 <p>There is a small issue with the tables-of-contents generated to confirm with <a href="https://github.com/updownpress/markdown-lint/blob/master/rules/007-ul-indent.md">MD007</a>
 in that the lint/standard is 2 spaces, while Mkdocs required 4 spaces to work.</p>
-<p>Thankfully a kind soul has developed a plugin to stop this being a pain when you want your TOC to automatically update on save, but not get corrupted.</p>
-<p><a href="https://github.com/radude/mdx_truly_sane_lists"><code>mdx_truly_sane_lists</code></a> is what you need.  Simply install it as part of your build environment and append it to the <code>mkdocs.yaml</code> markdown_extensions section:</p>
+<p>Thankfully a kind soul has developed a plugin to stop this being a pain when you want your TOC to automatically update
+on save, but not get corrupted.</p>
+<p><a href="https://github.com/radude/mdx_truly_sane_lists"><code>mdx_truly_sane_lists</code></a> is what you need.  Simply install it as part of your build environment and append
+it to the <code>mkdocs.yaml</code> markdown_extensions section:</p>
 <div class="highlight"><pre><span></span><code><span class="nt">markdown_extensions</span><span class="p">:</span><span class="w"></span>
 <span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">...</span><span class="w"></span>
 <span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">mdx_truly_sane_lists</span><span class="w"></span>
 </code></pre></div>
+<h2 id="comments">Comments</h2>
+<script src="https://utteranc.es/client.js"
+        repo="keiranmraine/keiranmraine.github.io"
+        issue-term="url"
+        label="comments"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 <!-- refs -->
 
 

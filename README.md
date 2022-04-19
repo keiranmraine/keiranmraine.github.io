@@ -29,9 +29,9 @@ mkdocs serve -a 0.0.0.0:8000
 Before release:
 
 ```bash
-cd mkdocs
+pushd mkdocs
 mkdocs build  -d ../docs
-cd ../
+popd
 # run the pre-commit first to save repeated git add
 pre-commit run -a
 git status
