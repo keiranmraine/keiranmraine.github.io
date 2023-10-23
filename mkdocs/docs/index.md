@@ -6,7 +6,7 @@ Pronouns: he, him
 
 ## Current position
 
-Head of Service, Clinical Computational Research Informatics, [Health Innovation East][hi-east].
+Head of Health Informatics Platforms, [Health Innovation East][hi-east].
 
 You can find more detail [here](./profile.md).
 
