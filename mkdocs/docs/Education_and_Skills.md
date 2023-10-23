@@ -1,6 +1,6 @@
 # Education & Skills
 
-- [Education & Skills](#education--skills)
+- [Education \& Skills](#education--skills)
   - [Education](#education)
     - [M.Sc. Bioinformatics](#msc-bioinformatics)
     - [B.Sc. (Hons) Biomedical Sciences, 2:1](#bsc-hons-biomedical-sciences-21)
@@ -66,6 +66,7 @@
 - [AWS](https://aws.amazon.com/)
   - General use of virtual instances and volumes.
   - [Polly](https://aws.amazon.com/polly/) for training video voice-overs.
+  - [AWS Cloud Quest: CLoud Practitioner](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)
 - [OpenStack](https://www.openstack.org/)
   - Tools for host management and deployment, applicable to other environments but used mainly here:
     - [Packer](https://www.packer.io/) - image building

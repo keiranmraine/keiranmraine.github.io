@@ -8,10 +8,7 @@ On fresh checkout:
 
 ```bash
 python -m venv .venv
-# linux
-source venv/bin/activate
-# windows (with bash shell)
-.venv/Scripts/activate
+source .venv/*/activate
 pip install mkdocs-material mdx_truly_sane_lists
 # using global pre-commit install
 pre-commit install
@@ -22,8 +19,7 @@ pre-commit install
 Use MkDocs.  Render locally for testing:
 
 ```bash
-cd mkdocs
-mkdocs serve -a 0.0.0.0:8000
+(cd mkdocs && mkdocs serve -a 0.0.0.0:8000)
 ```
 
 Before release:

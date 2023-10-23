@@ -10,7 +10,7 @@
     - [Containers for reproducible science](#containers-for-reproducible-science)
     - [Full stack development experience](#full-stack-development-experience)
     - [Readers note](#readers-note)
-  - [2022 - current](#2022---current)
+  - [2022 onwards](#2022-onwards)
   - [Consultancy work](#consultancy-work)
     - [September 2021 - March 2022](#september-2021---march-2022)
 
@@ -117,17 +117,23 @@ these it should be noted that I value the advice and expertise of those around m
 group of people from varied backgrounds who draw on each others strengths.  The team is also supported by the core informatics
 and infrastructure groups at the Sanger Institute.
 
-## 2022 - current
+## 2022 onwards
 
-- Head of Service, Clinical Computational Resarch Informatics
+- Head of Health Informatics Platforms, Health Innovation East
+  - Formerly: Head of Service, Clinical Computational Research Informatics
 
-Working at Eastern AHSN (Academic Health Science Network) on the CYNAPSE project.
+Eastern AHSN (Academic Health Science Network) changed its name to Health Innovation East in October 2023.
 
-The aim of CYNAPSE is to modernise and future-proof the computational infrastructure for genomics and wider ‘omics’ data
-across the NIHR Cambridge BioResource Centre (BRC).
+Initially focused on the delivery and development of the CYNAPSE platform to modernise and future-proof the computational
+infrastructure for genomics and wider ‘omics’ data across the NIHR Cambridge BioResource Centre (BRC).
 
-A significant portion of the position is around requirements gathering and development of a sustainable service delivery
-team supporting a diverse omic research community.
+A significant portion of the position being around requirements gathering and development of a sustainable service delivery
+team supporting a diverse 'omic research community.
+
+2023, role expanded to cover a larger portfolio of work including the NHS Sub-National Secure Data Environment for the
+East of England.  The team has now expanded to a total of 6 technical members covering cloud infrastructure, data management
+and information analysts, supporting projects across Cambridge University Health Partners (CUHP), University of Cambridge,
+NHS data strategy projects as well as smaller ad-hoc contracts in the research space.
 
 ## Consultancy work
 

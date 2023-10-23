@@ -6,9 +6,17 @@ Pronouns: he, him
 
 ## Current position
 
-Head of Service, Clinical Computational Research Informatics, [Eastern AHSN][eastern-url].
+Head of Service, Clinical Computational Research Informatics, [Health Innovation East][hi-east].
 
-You can find more detail [here](./profile).
+You can find more detail [here](./profile.md).
+
+## Recent training
+
+<!-- markdownlint-disable MD033 -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32d69c87-9988-46d3-b016-5042f0b7e98b"
+data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- markdownlint-enable -->
 
 ## GitHub
 
@@ -23,5 +31,5 @@ You can view my publications via the PubMed Bibliography service [here][pubmed-b
 
 <!-- references -->
 
-[eastern-url]: https://www.easternahsn.org/
+[hi-east]: https://www.healthinnovationeast.co.uk/
 [pubmed-bib]: https://www.ncbi.nlm.nih.gov/myncbi/keiran%20m.raine.1/bibliography/public/
