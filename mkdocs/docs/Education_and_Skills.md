@@ -64,9 +64,12 @@
 ### Cloud, virtualisation and related tools
 
 - [AWS](https://aws.amazon.com/)
-  - General use of virtual instances and volumes.
   - [Polly](https://aws.amazon.com/polly/) for training video voice-overs.
-  - [AWS Cloud Quest: CLoud Practitioner](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)
+  - [S3](https://aws.amazon.com/s3/) object storage - concepts, cost minimisation and API integration.
+  - [SimpleDb](https://aws.amazon.com/simpledb/) - Mutable structure simple database service for low data volume
+(1MB max per row)
+  - General use of virtual instances and volumes.
+  - [AWS Cloud Practitioner Essentials][AWS-CPE]
 - [OpenStack](https://www.openstack.org/)
   - Tools for host management and deployment, applicable to other environments but used mainly here:
     - [Packer](https://www.packer.io/) - image building
@@ -137,3 +140,4 @@ This section details languages I have some experience but would not consider mys
 [altair-letter]: https://resources.altair.com/resfile_web_path/file-en/Mistral_CustomerStory_SangerInstitute_Letter_102220.pdf
 [wwdocker-url]: https://github.com/cancerit/WwDocker
 [lt-agile-url]: https://www.learningtree.co.uk/courses/1815/agile-testing-strategies-and-practices/
+[AWS-CPE]: https://explore.skillbuilder.aws/learn/course/134/AWS%2520Cloud%2520Practitioner%2520Essentials

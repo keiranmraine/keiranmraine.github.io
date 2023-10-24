@@ -73,6 +73,7 @@ This basically uses the repositories issue tracking system to allow comments, se
 
 ## Comments
 
+<!-- markdownlint-disable MD033 -->
 <script src="https://utteranc.es/client.js"
         repo="keiranmraine/keiranmraine.github.io"
         issue-term="url"
@@ -81,6 +82,7 @@ This basically uses the repositories issue tracking system to allow comments, se
         crossorigin="anonymous"
         async>
 </script>
+<!-- markdownlint-enable -->
 
 <!-- refs -->
 

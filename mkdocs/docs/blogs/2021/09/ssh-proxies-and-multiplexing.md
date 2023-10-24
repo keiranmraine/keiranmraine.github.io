@@ -92,6 +92,7 @@ Host named-host
 
 ## Comments
 
+<!-- markdownlint-disable MD033 -->
 <script src="https://utteranc.es/client.js"
         repo="keiranmraine/keiranmraine.github.io"
         issue-term="url"
@@ -100,3 +101,4 @@ Host named-host
         crossorigin="anonymous"
         async>
 </script>
+<!-- markdownlint-enable -->

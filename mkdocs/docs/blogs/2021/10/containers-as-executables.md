@@ -124,6 +124,7 @@ Note: you shouldn't expose all the tools in the container, just the unique items
 
 ## Comments
 
+<!-- markdownlint-disable MD033 -->
 <script src="https://utteranc.es/client.js"
         repo="keiranmraine/keiranmraine.github.io"
         issue-term="url"
@@ -132,3 +133,4 @@ Note: you shouldn't expose all the tools in the container, just the unique items
         crossorigin="anonymous"
         async>
 </script>
+<!-- markdownlint-enable -->
